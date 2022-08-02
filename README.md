@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamiroG1995
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript: JS, NodeJS, jQuery, Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ramirogalindo23@gmail.com
 
